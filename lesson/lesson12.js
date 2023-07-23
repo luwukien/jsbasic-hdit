@@ -13,6 +13,7 @@ let obj = {
 
 };  
 
+
 let b = ' luu kien';
 
 obj.name = "dat "
@@ -20,3 +21,5 @@ obj.name = "dat "
 console.log('what is your name ', ',my name is ', obj.name)
 
 console.log("what is your birthday ", ",my birthday is  ", obj.date)
+
+
